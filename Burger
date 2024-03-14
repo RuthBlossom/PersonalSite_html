@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Burger</title>
+</head>
+<body>
+		<h1>My Burger</h1>
+			<div>Top Bun<div>
+			<div>Patty<div>
+			<div>Lettuce<div>
+			<div>Cheese<div>
+			<div>Tomato<div>
+			<div>Bottom Bun<div>
+</body>
+</html>
